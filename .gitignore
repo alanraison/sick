@@ -1,0 +1,17 @@
+# Helm
+*.tgz
+packaged-charts/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
